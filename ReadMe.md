@@ -14,15 +14,20 @@ Como toda análise de mercado financeiro, a mera identificação desses padrões
 
 Os padrões do modelo foram classificados da seguinte forma: 
 
-* OCO - Padrão Ombro Cabeça Ombro (um pico maior entre dois picos menores)
+* OCO - Padrão Ombro Cabeça Ombro (um pico maior entre dois picos menores) 
+!['OCO'](oco.gif)
 
 * OCO invertido - Padrão OCO invertido (um vale maior entre dois vales menores)
+!['OCO_INVERTIDO'](oco_invertido.png)
 
 * Topo Duplo - Dois picos de mesmo tamanho consecutivos (também conhecido como 'M')
+!['DoubleTop'](topo_duplo.jpg)
 
 * Fundo Duplo - Dois vales de mesmo tamanho consecutivos (tembém conhecido como 'W')
+!['DoubleBottom'](fundo_duplo.webp)
 
 * Bandeira de Alta - Uma linha crescente seguida de vales e picos pequenos uniformes
+!['UpFlag'](bandeira_alta.gif)
 
 * Bandeira de baixa - Uma linha decrescente seguida de vales e picos pequenos uniformes
-
+!['DownFlag'](Bandeira-de-baixa.webp)
