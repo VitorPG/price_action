@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['bandeira_alta', 'bandeira_baixa', 'fundo_duplo', 'oco', 'oco_inv', 'topo_duplo']
+
+roboflow:
+  workspace: redes-neurais
+  project: graph-dataset-uinci
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/redes-neurais/graph-dataset-uinci/dataset/1
